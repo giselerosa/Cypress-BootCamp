@@ -1,0 +1,12 @@
+[
+    {
+       "_id":{
+          "$oid":"5fa6ff835d0e651cf9ccfd1f"
+       },
+       "FirstName":"Nady",
+       "LastName":"Golub",
+       "Email":"anikinana92@yandex.ru",
+       "Phone":"9277397626",
+       "Gender":"FeMale"
+    }
+ ]
