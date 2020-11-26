@@ -1,2 +1,11 @@
 node_modules
 cypress/videos/*
+
+# cucumber reports
+cypress/reports/cucumber_report.html
+cypress/reports/cucumber_report.html.json
+cypress/reports/cucumber-json/**
+
+# mochawesome reports
+mochawesome-report/*
+full_report.json
