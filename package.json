@@ -11,7 +11,7 @@
     "report:merge": "mochawesome-merge > full_report.json",
     "report:mocha": "marge full_report.json",
     "report:clean": "rm -rf mochawesome-report full_report.json cypress/reports/cucumber-json/*",
-    "reporter:cucumber": "node cypress/reports/reporter.js",
+    "report:cucumber": "node cypress/reports/reporter.js",
     "cy:videos:clean": "rm -rf cypress/videos/* cypress/screenshots/*"
   },
   "keywords": [],
