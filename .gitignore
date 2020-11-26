@@ -1,11 +1,14 @@
-node_modules
-cypress/videos/*
+# dependencias
+node_modules/
 
-# cucumber reports
-cypress/reports/cucumber_report.html
-cypress/reports/cucumber_report.html.json
+# relatorios mocha
+mochawesome-report
+
+# relatorios cucumber
+cypress/reports/index.html
+cypress/reports/index.html.json
 cypress/reports/cucumber-json/**
 
-# mochawesome reports
-mochawesome-report/*
+# videos
+cypress/videos
 full_report.json
